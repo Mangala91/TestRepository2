@@ -5,6 +5,8 @@ public class Compare {
 		String a = new String ("JAVA");
 		String b = new String ("java");
 		System.out.println(a. equals(b));
+		
+		
 
 	}
 
